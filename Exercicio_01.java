@@ -2,7 +2,7 @@ import javax.swing.JOptionPane;
 
 public class Exercicio_01
 {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         String nome;
         int numNota=0;

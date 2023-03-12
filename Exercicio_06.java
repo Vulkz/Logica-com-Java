@@ -2,7 +2,7 @@ import javax.swing.JOptionPane;
 
 public class Exercicio_06
 {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         int meses;
         double inicial, juros, taxaAdm, valorTot;
